@@ -15,4 +15,5 @@ Emacs major mode for editing and running RTcmix scripts
 First, edit the file to point to your CMIX path. Then add .el file to your emacs load path and (require 'rtcmix-mode).
 
 ## LICENSE
-distributed under the terms of the GNU Public License
+
+distributed under the MIT license
