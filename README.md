@@ -8,7 +8,7 @@ Emacs major mode for editing and running RTcmix scripts
 
 * Syntax highlighting
 * Electric tabs
-* Run current script with <ctrl-c> <ctrl-c>
+* Run current script with ctrl-c ctrl-c
 
 ## INSTALL
 
